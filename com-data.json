@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "icon": "/src/img/dataicon/avatar.svg",
+            "name": "Omar Vaccaro",
+            "role": "Founder of Valcro",
+            "description": "I am very satisfied with the results of the website created by the Codev team. My website looks professional and easy to use. The Codev team was very responsive and helped me every step of the way.",
+            "link": "Valcro.com"
+        },
+        {
+            "icon": "/src/img/dataicon/avatar-1.svg",
+            "name": "Jocelyn Donin",
+            "role": "Founder of Messy",
+            "description": "Since I used Codev services to create a website, my business has grown rapidly. My website looks attractive and is easy to navigate, increasing conversions and sales.",
+            "link": "Messy.com"
+        },
+        {
+            "icon": "/src/img/dataicon/avatar-2.svg",
+            "name": "Nolan Calzoni",
+            "role": "Founder of Goblink",
+            "description": "Codev completed my website on time and with outstanding quality. The Codev team is very easy to work with and always open to my ideas. I am very satisfied with the results of my website ",
+            "link": "Goblink.org"
+        }
+    ]
+}
