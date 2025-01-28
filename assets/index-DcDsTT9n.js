@@ -17,4 +17,4 @@
 </a>
         </div>
         <hr class="separator">
-        </div>`).join(""),(document.querySelector(".clients-comments").textContent="")&&document.querySelector(".clients-comments").classList.toggle("error")}i();
+        </div>`).join("")}i();
